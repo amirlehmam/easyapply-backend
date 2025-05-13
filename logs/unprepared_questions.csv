@@ -1,0 +1,14 @@
+timestamp,question_type,question_text,context,job_title,company,job_link
+2025-05-12T20:43:23.477992,numeric,how many years of work experience do you have with sql?,,,,
+2025-05-12T20:45:43.336466,dropdown,"do you have a background in computational chemistry, cheminformatics, computational biology, bioinformatics, data engineering or computer science? 
+do you have a background in computational chemistry, cheminformatics, computational biology, bioinformatics, data engineering or computer science?",,,,
+2025-05-12T20:45:47.646054,dropdown,"have you been in a data engineer focused role within the last 2 years? 
+have you been in a data engineer focused role within the last 2 years?",,,,
+2025-05-12T20:45:56.255490,dropdown,"do you have deep expertise working with admet data pipelines for machine learning?
+do you have deep expertise working with admet data pipelines for machine learning?",,,,
+2025-05-12T20:48:23.425780,numeric,how many years of work experience do you have with artificial intelligence (ai)?,,,,
+2025-05-13T02:20:19.911077,radio,do you speak french fluently?,,,,
+2025-05-13T02:20:45.669338,radio,where are you based ?,,,,
+2025-05-13T02:20:56.651768,radio,i am allowing scaleway to contact me about future job opportunities for up to 2 years. privacy policy,,,,
+2025-05-13T02:21:11.354126,dropdown,"which location are you applying for?
+which location are you applying for?",,,,

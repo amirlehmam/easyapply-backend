@@ -1,0 +1,151 @@
+email: amir.lehmam@gmail.com
+password: Gdze_94400
+openaiApiKey: sk-proj-your-openai-api-key
+disableAntiLock: false
+remote: false
+lessthanTenApplicants: false
+newestPostingsFirst: true
+experienceLevel:
+  internship: false
+  entry: true
+  associate: true
+  mid-senior level: true
+  director: false
+  executive: false
+jobTypes:
+  full-time: true
+  contract: false
+  part-time: false
+  temporary: false
+  internship: false
+  other: false
+  volunteer: false
+date:
+  all time: false
+  month: false
+  week: true
+  24 hours: false
+positions:
+  - Data Analyst
+  - Data Engineer
+  - Data Scientist
+  - Python Developer
+locations:
+  - Paris, France
+  - Ile de France
+residentStatus: true
+distance: 25
+outputFileDirectory: ~/Documents/Applications/EasyApplyBot/EasyApplyBot/
+companyBlacklist: null
+titleBlacklist: null
+posterBlacklist: null
+uploads:
+  resume: C:\Users\ASUS\Desktop\EasyApply\CV.pdf
+checkboxes:
+  driversLicence: true
+  requireVisa: false
+  legallyAuthorized: true
+  certifiedProfessional: true
+  urgentFill: true
+  commute: true
+  remote: true
+  drugTest: true
+  assessment: true
+  securityClearance: false
+  degreeCompleted:
+    - High School Diploma
+    - Bachelor's Degree
+    - Master's Degree
+  backgroundCheck: true
+universityGpa: 4
+salaryMinimum: 65000
+languages:
+  english: Native or bilingual
+  arabic: Conversational
+  french: Native or bilingual
+noticePeriod: 1
+experience:
+  Accounting/Auditing: 3
+  Administrative: 3
+  Advertising: 3
+  Analyst: 3
+  Art/Creative: 3
+  Business Development: 3
+  Consulting: 3
+  Customer Service: 3
+  Distribution Design: 3
+  Education: 3
+  Engineering: 5
+  Finance: 3
+  General Business: 3
+  Health Care Provider: 3
+  Human Resources: 3
+  Information Technology: 6
+  Legal: 3
+  Management: 2
+  Manufacturing: 3
+  Marketing: 3
+  Public Relations: 3
+  Purchasing: 3
+  Product Management: 3
+  Project Management: 3
+  Production: 3
+  Quality Assurance: 3
+  Research: 3
+  Sales: 3
+  Science: 3
+  Strategy/Planning: 3
+  Supply Chain: 3
+  Training: 3
+  Writing/Editing: 3
+  VBA: 2
+  PowerBI: 3
+  PowerQuery: 3
+  Excel: 8
+  PowerPoint: 8
+  Word: 8
+  SQL Server: 5
+  Communication: 3
+  Financial markets: 3
+  Business: 3
+  Financial services: 3
+  Team leadership: 3
+  Cash flow: 3
+  Hedging: 3
+  Treasury services: 3
+  Microsoft Power BI: 6
+  Accounting: 3
+  Auditing: 3
+  Financial modeling: 3
+  Budgeting & forecasting: 3
+  FP&A: 3
+  PQE: 3
+  Training & Development: 3
+  Python: 7
+  selenium: 3
+  default: 4
+personalInfo:
+  Pronouns: Mr.
+  First Name: Amir
+  Last Name: Lehmam
+  Phone Country Code: France (+33)
+  Mobile Phone Number: 787323996
+  Street address: 82 avenue Jean Jaurès
+  City: Vitry-sur-Seine, France
+  State: Ile-de-France
+  Zip: 94400
+  Linkedin: https://www.linkedin.com/in/amirlehmam
+  Website: https://www.amirlehmam.com
+  MessageToManager: >-
+    Hi, I am interested to join your organization. Please have a look at my
+    resume. Thank you.
+eeo:
+  gender: Male
+  race: None
+  veteran: None
+  disability: None
+  citizenship: 'yes'
+  clearance: 'no'
+evaluateJobFit: false
+textResume: /home/michael/Documents/Applications/Resume/resume_export.txt
+debug: false
